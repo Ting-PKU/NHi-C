@@ -1,2 +1,2 @@
 # NHi-C
-Figure reproducing code for NHi-C project
+Code for reproducing figure in NHi-C project
